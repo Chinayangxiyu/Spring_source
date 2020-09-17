@@ -1,0 +1,15 @@
+/bin/
+/src/main/webapp/WEB-INF/classes/
+/src/main/webapp/WEB-INF/lib/
+/.settings/
+/.classpath
+/.project
+.DS_Store
+target/
+
+# IDEA
+.idea/
+
+*.iml
+/logs
+/.apt_generated/
